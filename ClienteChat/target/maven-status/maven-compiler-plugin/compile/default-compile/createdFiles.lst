@@ -1,0 +1,3 @@
+module-info.class
+com\clientechat\App.class
+com\clientechat\ChatController.class
